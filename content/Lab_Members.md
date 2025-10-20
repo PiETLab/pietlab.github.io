@@ -1,11 +1,75 @@
-<!-- Auto-generated 2025-10-20T19:16Z by render_members.py (Stage 05 lab_website_public) -->
+<!-- Auto-generated 2025-10-20T22:10Z by render_members.py (Stage 05 lab_website_public) -->
 
 ## Current Lab Members
 
 ### Grad Lab Members
-- **Philip Michalowski** (Graduate supervisee (primary) 2025-09)
-- **Thalia Godbout** (Graduate supervisee (primary) 2024-09)
-- **Shelby Murchie** (Graduate supervisee (primary) 2024-09)
-- **Maximus Lam** (Graduate supervisee (primary) 2024-09)
-- **Andrew McConnell** (Graduate supervisee (primary) 2023-09)
-- **Edmund Konroyd-Bolden** (Graduate supervisee (primary) 2019-09)
+
+| | |
+|:--:|--|
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Philip Michalowski**<br>**Completing:** PhD in Digital Media<br>**Research Project:** Community-Based DIY Interactive Braille Display Design<br>**Completed:** MSc in Digital Media<br>**Research Project:** Low-Cost DIY Interactive Braille Displays to Support Braille Literacy |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Thalia Godbout**<br>**Completing:** MSc in Digital Media<br>**Research Project:** Design Justice and Participatory Narrative Design |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Shelby Murchie**<br>**Completing:** MSc in Digital Media<br>**Research Project:** Shifting Sands: Critical Data Physicalization in the XR Sandbox |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Maximus Lam**<br>**Completing:** MA in Digital Media<br>**Research Project:** Investigating Minecraft as a Commons-Based Pedagogical Technology Infrastructure |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Andrew McConnell**<br>**Completing:** PhD in Digital Media<br>**Research Project:** Indigenous Design Methodology in Digital Media Development |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Edmund Konroyd-Bolden**<br>**Completing:** PhD in STS<br>**Research Project:** Technologies of Social Infrastructure, Disability Justice, and Work-Integrated Learning<br>**Completed:** MA in STS<br>**Research Project:** Disability Communities and the Exercise of Citizenship |
+
+### Undergrad and Other Lab Members
+
+| | |
+|:--:|--|
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Jasmin Slootweg**<br>**Completed:** Undergraduate research assistant<br>**Current:** Undergraduate research assistant |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Jessica Lu**<br>**Completed:** Undergraduate work/study student<br>**Current:** Undergraduate work/study student |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Jasmine Ly**<br>**Completed:** Undergraduate research assistant<br>**Current:** Undergraduate research assistant<br>**Completed:** Undergraduate research assistant<br>**Completed:** Undergraduate research assistant |
+
+## Alum Lab Members
+
+### Alum Grad
+
+| | |
+|:--:|--|
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Alice Chai**<br>**Completed:** MA in Digital Media<br>**Research Project:** Disability Representation ​in Open-Source Assistive Technology Development |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Raghad (Riggy) El-Shebiny**<br>**Completed:** MSc in Digital Media<br>**Research Project:** Indexical Storytelling in Collaborative Learning Environments in STEM Education |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Elias Bestard Lorigados**<br>**Completed:** MSc in Computer Science<br>**Research Project:** Fan-Fiction and AO3 Free-Form Tagging Practice: Innovating Open-Source Tools for Tag Network Visualization and Analysis |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Pouneh Moghimi**<br>**Completed:** MSc in Computer Science<br>**Research Project:** Moghimi, Pouneh, Music Improvisation in VR Environments Accessible to Children with Motor and Sensory Impairments, Computer Science, in progress |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Mana Poustizadeh**<br>**Completed:** MSc in Computer Science<br>**Research Project:** Design Justice Principles And Do-It-Yourself Assistive Technology: Case Study |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Amma Ofori**<br>**Completed:** MA in Interdisciplinary Studies<br>**Research Project:** Choose Your Own Adventure? The Experiences of Occasional Teachers in the Reproduction or Transformation of Educational Systems |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Sarah Akhavan Kazemzadeh**<br>**Completed:** MSc in Computer Science<br>**Research Project:** The PISHI Concept: A Technique for Increasing Inclusion in the Design of Open-Source Assistive Technologies |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Daniel Marchena Parreira**<br>**Completed:** MSc in Computer Science<br>**Research Project:** Virtual Reality and EEG Sensing: Creating a framework Using Guided Meditation |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Melissa Banyard**<br>**Completed:** MA in STS<br>**Research Project:** Reflections on Design alongside Nonverbal Children and Proxies |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Rojin Majd Zarringhalam**<br>**Completed:** MSc in Computer Science<br>**Research Project:** Consonant Classification Based on Tongue Tip Trajectories |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Mehrnaz Zhian**<br>**Completed:** MSc in Computer Science<br>**Research Project:** Tracking Visible Features of Speech for Computer-Based Speech Therapy for Childhood Apraxia of Speech |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Foad Hamidi**<br>**Completed:** PhD in Computer Science<br>**Research Project:** Rafigh: A Living Media System for Motivating Target Application Use for Children<br>**Completed:** MSc in Computer Science<br>**Research Project:** Analysis and Automatic Derivation of Containment Hierarchies for Text Composition Facilities |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Michael Kaftarian**<br>**Completed:** MSc in Computer Science<br>**Research Project:** Phenomena of Emergence in Hetereogenous Agent Populations |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Fatima O. Hussain (Ramay)**<br>**Completed:** MSc in Computer Science<br>**Research Project:** Indirect Text Entry Interfaces Based on Huffman Coding With Unequal Letter Costs |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Andrew Kai Chung**<br>**Completed:** MSc in Computer Science<br>**Research Project:** Extraction and Analysis of Ethnographic Data from an Online Disability Community |
+
+### Undergrad and Other Lab Members
+
+| | |
+|:--:|--|
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Shaheer Saif**<br>**Completed:** Undergraduate research assistant<br>**Completed:** Undergraduate research assistant |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Richelle Grandison**<br>**Completed:** Undergraduate research assistant<br>**Completed:** Undergraduate research assistant |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Marvin Louie Faner**<br>**Completed:** Undergraduate work/study student<br>**Completed:** Undergraduate work/study student |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Rashiq Shahad**<br>**Completed:** Undergraduate research assistant |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Niharika Rajnish**<br>**Completed:** Undergraduate research assistant<br>**Completed:** Undergraduate research assistant |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Muna Mohammed**<br>**Completed:** Undergraduate research assistant<br>**Completed:** Undergraduate research assistant<br>**Completed:** Undergraduate research assistant |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Enes Yesil**<br>**Completed:** Undergraduate research assistant<br>**Completed:** Undergraduate research assistant |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Xavier Kelowan**<br>**Completed:** Undergraduate research assistant |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Shannon Harman**<br>**Completed:** Graduate research assistant<br>**Completed:** Graduate research assistant |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Yousif Al-Ogaidi**<br>**Completed:** Undergraduate research assistant<br>**Completed:** Undergraduate research assistant |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Wen Xue**<br>**Completed:** Undergraduate project course supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Walleed Khan**<br>**Completed:** Undergraduate project course supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Sidrah Laldin**<br>**Completed:** Undergraduate project course supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Sara Azari**<br>**Completed:** Undergraduate directed studies supervisee<br>**Completed:** Undergraduate directed studies supervisee<br>**Completed:** Undergraduate project course supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Robert Duhig**<br>**Completed:** Undergraduate project course supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Rick Arora**<br>**Completed:** Undergraduate capstone project supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Renu Kumar**<br>**Completed:** Undergraduate project course supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Ramona Sartipi**<br>**Completed:** Undergraduate directed studies supervisee<br>**Completed:** Undergraduate project course supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Maydha Maithani**<br>**Completed:** Undergraduate project course supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Maria Forero**<br>**Completed:** Undergraduate project course supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Manisha Luthra**<br>**Completed:** Undergraduate project course supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Li (David) Yin**<br>**Completed:** Undergraduate capstone project supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Ksenia Choubina**<br>**Completed:** Undergraduate project course supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Gauri Wahi**<br>**Completed:** Undergraduate project course supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Denesh Raymond**<br>**Completed:** Undergraduate project course supervisee |
+| <img src="./assets/avatar-150x150.png" style="width:120px; max-width:none; height:auto; display:block; vertical-align:top;" alt="Alt text goes here"> | **Carmine Casciato**<br>**Completed:** Undergraduate project course supervisee |
